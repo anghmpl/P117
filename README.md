@@ -5,4 +5,4 @@
      start observing the other targets.
    * **WFI Korhonen**: I count the images for **XX-CHA** separately, using 112.2659.001, the assigned time is randomly chosen and has
      to be checked.
-   * There is no correct e-mail for Pereira yet  
+   * There is no correct e-mail for Pereira yet.  
