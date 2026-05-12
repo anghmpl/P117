@@ -7,3 +7,4 @@
      to be checked.
    * There is no correct e-mail for Pereira yet.
    * The numbers for Arne and Sherry Suyu are based on the total number of hours (astronomical night) in the whole year.
++ **12.05.2026:** Added specific calculations for total execution time for the Ahrer program (**117.2ASK.001**). She has either 3 or 6 exposures per OB, with 122 or 93 sec of overhead per image. I use 110 sec as the average overhead for each individual image.
