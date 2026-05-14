@@ -11,3 +11,5 @@
    * update for Pereira's e-mail 
    * I added specific calculations for total execution time for the Ahrer program (**117.2ASK.001**). She has either 3 or 6 exposures per OB, with 122 or 93 sec of overhead per image. I use 110 sec as the average overhead for each individual image.
    * She also wants  a single exposure with lamp 3 every 2-3 hours (60 sec). Since these are calibration images, they are not counted for her. (She uses her PID, but the ESO archive still lists them as public data).
++ **$${\color{red}14.05.2026:}$$**
+   * Small correction in reading the input file
