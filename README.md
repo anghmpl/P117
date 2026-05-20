@@ -13,3 +13,5 @@
    * She also wants  a single exposure with lamp 3 every 2-3 hours (60 sec). Since these are calibration images, they are not counted for her. (She uses her PID, but the ESO archive still lists them as public data).
 + **$${\color{red}14.05.2026:}$$**
    * Small correction in reading the input file
++ **$${\color{red}20.05.2026:}$$**
+   * adjusted overheads for Costa, since he uses 1 OB for 2 exposures
