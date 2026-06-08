@@ -16,4 +16,4 @@
 + **$${\color{red}20.05.2026:}$$**
    * adjusted overheads for Costa, since he uses 1 OB for 2 exposures
 + **$${\color{red}08.06.2026:}$$**
-   * Correction for P117_pi.list, one of A.Raus POI'd for GROND does not have a validity date, and he used onbe from P116 for his SN2025uvo target.(Check with https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/form )
+   * Correction for P117_pi.list, one of A.Rau's PID'd for GROND does not have a validity date, and he used one from P116 for his SN2025uvo target. (Check with https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/form )
