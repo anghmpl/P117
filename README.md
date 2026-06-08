@@ -17,7 +17,7 @@
    * adjusted overheads for Costa, since he uses 1 OB for 2 exposures
 + **$${\color{red}08.06.2026:}$$**
    * Correction for P117_pi.list, one of A. Rau's PID'd for GROND does not have a validity date, and he used one from P116 for his SN2025uvo target. (Check with https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/form )
-   * Included Demianenko for WFI.
+   * Included Demianenko for WFI. Overheads are based on p2 OB, 20*150 sec + acquisition, 00:50:00 hr for total exposure, 01:20:20 hr for execution, i.e. approx. 91 sec overhead for each image.
    * Added GROND to the statistic. I am counting only IRACE images, since the FIERA shutter still has a problem (no FIERA images so far). Total exposure times for IRACE must be multiplied by 6 (6 co-adds of 10 sec each = 1 IRACE image)
    , compared to what the ESO archive lists. The overheads for IRACE are minimal, so I set them to 0.0 sec.
      At least so far, the number of IRACE images and total exposure times for Arne Rau are correct.
