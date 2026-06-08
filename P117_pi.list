@@ -28,9 +28,9 @@ VENNER          Alexander       alvenner@mpia.de             117.2ARW.001 000.00
 HENNING         Thomas          henning@mpia.de              117.2ASH.001 000.0000.000       FEROS          0   230     # Warm gIaNts with tEss (WINE): planet validation with FEROS          
 VILLASEÑOR      Jaime           villasenor@mpia.de           117.2ASM.001 000.0000.000       FEROS          0   145     # A gold sample of black-hole companions among SDSS-V OB stars        
 PEREIRA         Bastos          claudio@on.br                117.2ARU.001 000.0000.000       FEROS         18     0     # Abundances in open clusters and in chemically peculiar stars
-RAU             Arne            rau@mpe.mpg.de               117.2ASA.001 117.2ASB.001       GROND        368     0     # 10% of all available hours, 3675.63 hours for the whole year, or 3312.93 h in astronomical night
-RAU             Arne            rau@mpe.mpg.de               117.2ASC.001 117.2ASD.001       FEROS          0     0     # takes away from GROND/WFI time
-RAU             Arne            rau@mpe.mpg.de               117.2ASE.001 117.2ASF.001       WFI            0     0     # takes away from GROND/FEROS time, 3675.63 hours for the whole year
+RAU             Arne            rau@mpe.mpg.de               117.2ASA.001 116:29GN.001       GROND        368     0     # 10% of all available hours, 3675.63 hours for the whole year, or 3312.93 h in astronomical night
+RAU             Arne            rau@mpe.mpg.de               117.2ASB.001 117.2ASD.001       FEROS          0     0     # takes away from GROND/WFI time
+RAU             Arne            rau@mpe.mpg.de               117.2ASC.001 117.2ASF.001       WFI            0     0     # takes away from GROND/FEROS time, 3675.63 hours for the whole year
 SUYU            Sherry          suyu@mpa-garching.mpg.de     117.2AS0.003 000.0000.000       GROND        368     0     # HIGH-CADENCE MONITORING OF GRAVITATIONALLY LENSED TRANSIENTS, 10% of all available hours, 3675.63 hours for the whole year
 SUYU            Sherry          suyu@mpa-garching.mpg.de     117.2AS0.001 117.2AS0.002       WFI            0     0     # HIGH-CADENCE MONITORING OF GRAVITATIONALLY LENSED TRANSIENTS
 ZHAO            He              he.zhao@oca.eu               117.2ARQ.001 000.0000.000       FEROS         18     0     # Searching for the period when the rotation of early-type stars was braked
