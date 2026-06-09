@@ -20,6 +20,6 @@
    * Included Demianenko for WFI. Overheads are based on p2 OB, 20*150 sec + acquisition, 00:50:00 hr for total exposure, 01:20:20 hr for execution, i.e. approx. 91 sec overhead for each image.
    * Added GROND to the statistic. I am counting only IRACE images, since the FIERA shutter still has a problem (no FIERA images so far). Total exposure times for IRACE must be multiplied by 6 (6 co-adds of 10 sec each = 1 IRACE image)
    , compared to what the ESO archive lists. The overheads for IRACE are minimal, so I set them to 0.0 sec.
-     At least so far, the number of IRACE images and total exposure times for Arne Rau are correct.
+     So far, the number of IRACE images and total exposure times for Arne Rau are correct.
 + **$${\color{red}09.06.2026:}$$**
    * Adjusted the individual check for a GROND program, based on IRACE observations (exposure times and image numbers).
