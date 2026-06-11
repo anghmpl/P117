@@ -23,3 +23,5 @@
      So far, the number of IRACE images and total exposure times for Arne Rau are correct.
 + **$${\color{red}09.06.2026:}$$**
    * Adjusted the individual check for a GROND program, based on IRACE observations (exposure times and image numbers).
++ **$${\color{red}11.06.2026:}$$**
+   * The GROND statistic now also counts the optical images, so you know how many files you should find in the archive. The total exposure time/execution time is only based on IRACE images; it is more reliable.
