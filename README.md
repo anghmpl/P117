@@ -1,6 +1,6 @@
 # Statistic for P117
 
-+ **$${\color{red}07.05.2026:}$$** For now I only count FEROS and WFI data, since GROND is still offline.
++ **$${\color{red}07.05.2026:}$$** For now I only count **FEROS** and **WFI** data, since GROND is still offline.
    * **WFI Bañados**: I check which target has been observed. For now, that is only **J10253030+1402078**. I will add additional blocks once we
      start observing the other targets. Each target will have quite different overheads.
    * **WFI Korhonen**: I count the images for **XX-CHA** separately, using 112.2659.001, the assigned time is randomly chosen and has
@@ -16,12 +16,12 @@
 + **$${\color{red}20.05.2026:}$$**
    * adjusted overheads for Costa, since he uses 1 OB for 2 exposures.
 + **$${\color{red}08.06.2026:}$$**
-   * Correction for P117_pi.list, one of A. Rau's PID'd for GROND does not have a validity date, and he used one from P116 for his SN2025uvo target. (Check with https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/form )
-   * Included Demianenko for WFI. Overheads are based on p2 OB, 20*150 sec + acquisition, 00:50:00 hr for total exposure, 01:20:20 hr for execution, i.e. approx. 91 sec overhead for each image.
-   * Added GROND to the statistic. I am counting only IRACE images, since the FIERA shutter still has a problem (no FIERA images so far). Total exposure times for IRACE must be multiplied by 6 (6 co-adds of 10 sec each = 1 IRACE image)
+   * **Correction for P117_pi.list**, one of A. Rau's PID'd for GROND does not have a validity date, and he used one from P116 for his SN2025uvo target. (Check with https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/form )
+   * Included Demianenko for **WFI**. Overheads are based on p2 OB, 20*150 sec + acquisition, 00:50:00 hr for total exposure, 01:20:20 hr for execution, i.e. approx. 91 sec overhead for each image.
+   * Added **GROND** to the statistic. I am counting only IRACE images, since the FIERA shutter still has a problem (no FIERA images so far). Total exposure times for IRACE must be multiplied by 6 (6 co-adds of 10 sec each = 1 IRACE image)
    , compared to what the ESO archive lists. The overheads for IRACE are minimal, so I set them to 0.0 sec.
      So far, the number of IRACE images and total exposure times for Arne Rau are correct.
 + **$${\color{red}09.06.2026:}$$**
-   * Adjusted the individual check for a GROND program, based on IRACE observations (exposure times and image numbers).
+   * Adjusted the individual check for a **GROND** program, based on IRACE observations (exposure times and image numbers).
 + **$${\color{red}11.06.2026:}$$**
-   * The GROND statistic now also counts the optical images, so you know how many files you should find in the archive. The total exposure time/execution time is only based on IRACE images; it is more reliable.
+   * The **GROND** statistic now also counts the optical images, so you know how many files you should find in the archive. The total exposure time/execution time is only based on IRACE images; it is more reliable.
