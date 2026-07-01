@@ -25,3 +25,7 @@
    * Adjusted the individual check for a **GROND** program, based on IRACE observations (exposure times and image numbers).
 + **$${\color{red}11.06.2026:}$$**
    * The **GROND** statistic now also counts the optical images, so you know how many files you should find in the archive. The total exposure time/execution time is only based on IRACE images; it is more reliable.
+
+ + **$${\color{red}30.06.2026:}$$**
+   * Adjusted overheads for the Vaughan DDT (117.2AS7.001) and Heidis FEROS programm (117.2ARH).001.
+      
