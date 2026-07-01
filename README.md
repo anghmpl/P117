@@ -29,3 +29,6 @@
  + **$${\color{red}30.06.2026:}$$**
    * Adjusted overheads for the Vaughan DDT (117.2AS7.001) and Heidis FEROS programm (117.2ARH.001).
       
++ **$${\color{red}01.07.2026:}$$**
+  * some minor changes for the pdf file
+  
