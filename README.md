@@ -14,7 +14,7 @@
 + **$${\color{red}14.05.2026:}$$**
    * Small correction in reading the input file.
 + **$${\color{red}20.05.2026:}$$**
-   * adjusted overheads for Costa, since he uses 1 OB for 2 exposures.
+   * Adjusted overheads for Costa, since he uses 1 OB for 2 exposures.
 + **$${\color{red}08.06.2026:}$$**
    * **Correction for P117_pi.list**, one of A. Rau's PID'd for GROND does not have a validity date, and he used one from P116 for his SN2025uvo target. (Check with https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/form )
    * Included Demianenko for **WFI**. Overheads are based on p2 OB, 20*150 sec + acquisition, 00:50:00 hr for total exposure, 01:20:20 hr for execution, i.e. approx. 91 sec overhead for each image.
@@ -32,3 +32,7 @@
 + **$${\color{red}01.07.2026:}$$**
   * some minor changes for the pdf file
   
++ **$${\color{red}02.09.2026:}$$**
+  * Some major changes, both in the script and the input file (P117_pi.list). We now have many more PIDs and the DDT programs use the same PID.
+  * I also changed the output style. The pdf is not really useful, since we have many "Service time" blocks during the next months. I think it is more useful to check the completion just before service time starts. Just run the script in notebook.
+  * If you want, you can still create a pdf or a very simple (for now) html file. Feel free to change the format.
