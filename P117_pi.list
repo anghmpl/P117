@@ -42,7 +42,7 @@ TURIS           Daniela         daniela.turis@postgrado.uv.cl   117.2B33.001 000
 ZGIRSKI         Bartlomiej      bzgirski@astro-udec.cl          117.2B34.001 000.0000.000     FEROS         72     0    # Radial velocities of nearby Type 2
 DE_ALMEIDA      Florence        florence.dealmeida@mail.udp.cl  117.2B32.001 000.0000.000     FEROS         40     0    # Planets Beyond the Milky Way
 VAUGHAN         DDT             korhonen@mpia.de                117.2AS7.001 000.0000.000     FEROS          3     0    # FEROS DDT HD 20782
-BENISTY         DDT             korhonen@mpia.de                117.2AS7.001 000.0000.000     FEROS          10    0    # FEROS DDT IRAS 19205-0746
+BENISTY         DDT             korhonen@mpia.de                117.2AS7.001 000.0000.000     FEROS          7     0    # FEROS DDT IRAS 19205-0746
 MÜLLER-HORN_3   Johanna         müller-horn@mpia.de             117.2ARC.001 000.0000.000     FEROS          0    75     # Gaia DR4 follow-up – spectroscopic validation of OB+BH binaries
 BANADOS_3       Eduardo         banados@mpia.de                 117.2AS2.004 000.0000.000     WFI            0    60     # Black hole mass estimation via accretion disc-luminosity relation for J0225
 HENNING         Thomas          henning@mpia.de                 117.2ASH.001 000.0000.000     FEROS          0   230     # Warm gIaNts with tEss (WINE): planet validation with FEROS          
