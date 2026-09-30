@@ -39,4 +39,4 @@
 
 + **$${\color{red}30.09.2026:}$$**
   * One small change in (**P117_pi.list**). The two Ahrer programs are now only differentiated by PID.
-  * Now the script also counts and adds the extra wavelength calibs we take for Ahrer during the night. These are public data; she uses her own PID, but they are calibration files.
+  * Now the script also counts and adds the extra wavelength calibs we take for Ahrer during the night. 
