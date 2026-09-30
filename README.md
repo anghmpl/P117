@@ -33,6 +33,10 @@
   * some minor changes for the pdf file
   
 + **$${\color{red}02.09.2026:}$$**
-  * Some major changes, both in the script and the input file (**P117_pi.list**). We now have many more PIDs and the DDT programs use the same PID.
-  * I also changed the output style. The pdf is not really useful, since we have many "Service time" blocks during the next months. I think it is more useful to check the completion just before service time starts. Just run the script in notebook.
+  * Some major changes, both in the script and the input file (**P117_pi.list**). We now have many more PIDs, and the DDT programs use the same PID.
+  * I also changed the output style. The pdf is not really useful, since we have many "Service time" blocks in the next months. I think it is more useful to check the completion just before service time starts. Just run the script in notebook.
   * If you want, you can still create a pdf or a very simple (for now) html file. Feel free to change the format.
+
++ **$${\color{red}30.09.2026:}$$**
+  * One small change in (**P117_pi.list**). The two Ahrer programs are now only differentiated by PID.
+  * Now the script also counts and adds the extra wavelength calibs we take for Ahrer during the night. These are public data; she uses her own PID, but they are calibration files.
