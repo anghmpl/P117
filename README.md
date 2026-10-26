@@ -40,3 +40,5 @@
 + **$${\color{red}30.09.2026:}$$**
   * One small change in (**P117_pi.list**). The two Ahrer programs are now only differentiated by PID.
   * Now the script also counts and adds the extra wavelength calibs we take for Ahrer during the night. 
++ **$${\color{red}26.10.2026:}$$**
+  * Some small changes in (**P117_pi.list**) and the script, to account for finally starting the WFI observations for Suyu, with the new PID for MACS_J0138
